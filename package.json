@@ -15,8 +15,8 @@
   "dependencies": {
     "alpinejs": "^2.8.1",
     "autoprefixer": "^10.2.6",
-    "laravel-mix": "^6.0.19",
-    "postcss": "^8.3.0",
-    "tailwindcss": "^2.1.2"
+    "laravel-mix": "^6.0.37",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.1.0"
   }
 }
